@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "title": "Use JavaScript to Build a Quiz Game",
+      "detail": "We can easily say that JavaScript is the most potent tool in front-end development. It allows you to update the HTML and CSS of your website. It’s capable of manipulating, calculating, and validating data. You can use JS to build a simple quiz game and test your knowledge of this robust programming language. \n\nYou should be familiar with DOM manipulation before you begin working on this project. You can start with a small quiz of 3-4 MCQs (Multiple Choice Questions). Assign individual values to the answers that produce a specific outcome. After finishing this project, you’d have learnt a lot about data management in web development. \n\nTo take this a step further, you can add more questions with more possible outcomes, and thus, make the project highly complex. However, we’d suggest that you start with a small quiz, so you have a general understanding of how it works. You might be tempted to stylize the webpage a lot with CSS, but we recommend focusing on the quiz aspect more. If you aspire to learn web development, you should know what to work on and what to leave for other professionals. \n\n\n",
+      "id": 1
+    },
+    {
+      "title": "Use Giphy’s API to recreate Giphy",
+      "detail": "f you’ve been using the internet for several years, you must’ve come across Giphy. It’s a search engine for GIFs, and it’s filled with them. If you’re familiar with performing DOM Manipulation by using JS or jQuery, then this project is perfect for you. The goal of this project is to build a beautiful page that you can use to find GIFs. \n\nYou can use the giphy API to help you with this project. You can use it for free, and you won’t need to worry about the configuration. Their API will allow you to display popular gifs on your site, have an input which can search for relevant gifs, and have a ‘Load More’ button at the end of the search results to get more search results. \n\nThis project will make you familiar with asynchronous requests. And if you’re using jQuery to build this project, then you’ll get to learn about the ajax method as well. Your web app could become highly sophisticated, which will help you get familiar with the name spacing and structural organization. ",
+      "id": 2
+    },
+    {
+      "title": "Use Bootstrap to Create a Landing Page",
+      "detail": "If you want to create beautiful websites, then you must be familiar with Bootstrap. It simplifies the web development and styling of your web pages. As a front-end developer, you’d have to create many landing pages. So, in this project, you’ll focus on building one by using Bootstrap. \n\nA landing page has multiple pieces of information, images, and even videos. You can start with a simple text and image-based landing page first; you can take inspiration from the web designs of multiple landing pages present all over the web.\n\nOn the other hand, if you want to make this project complicated, you can take inspiration from the landing page of our Full Stack Development Program. This is a landing page as well. You can try imitating its design and create a beautiful product. Learning about Bootstrap will help you substantially in building eye-catching web pages. ",
+      "id": 3
+    },
+    {
+      "title": " Use Svelte to Build a List App",
+      "detail": "Svelte entered the industry in 2016 and is entirely novel in comparison to other popular frameworks such as Angular and Vue. However, it has the unique functionalities that make it stand out. And learning about it will surely help you in your career as a front-end web developer. Svelte offers better run-time performance because its applications don’t use framework references. Instead, its applications perform DOM manipulation. \n\nYou can build a list app with Svelte, components, and event handlers. To style the app, you’ll use CSS. Your list app should have a simple and attractive design with multiple options such as using emojis or recording audio messages, through the app. List apps aren’t widely popular, but creating one will certainly look good on your portfolio.\n\nThis project will make you familiar with Svelte, web apps, and UX. ",
+      "id": 4
+    },
+    {
+      "title": "Create a Chatting App by Using Vue",
+      "detail": "Vue is one of the most popular JavaScript libraries. You should have ample experience in using JS before you work on this project. Performing front-end development for a chat app will surely enhance your experience. \n\nYou should know the basics of Vue.js and using CSS frameworks. Creating a real-time interactive app will require some effort, but it’ll be worth it. You can take it a step further and add options of recording audio messages, sending files as well as images, through your platform. This is an advanced-level project idea, but it’s definitely worth the effort. You’d be familiar with user interface and user experience.",
+      "id": 5
+    }
+  ]
+}
